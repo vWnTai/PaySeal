@@ -1,0 +1,10 @@
+.git
+.env
+.env.production
+**/__pycache__
+**/.pytest_cache
+frontend/node_modules
+frontend/.next
+data
+secrets
+
